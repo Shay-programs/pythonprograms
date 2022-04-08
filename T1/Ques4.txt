@@ -1,0 +1,16 @@
+## Ques4 - . Write a program that takes input from the user and prints it using 
+## both Python 2.x and Python 3.x Version.
+
+## -------------------------------------------------
+
+## Python version 2.x - use raw_input
+
+usr_input = raw_input("Enter you name:")
+print (usr_input)
+
+## --------------------------------------------------
+
+## Python version 3.x  - use input
+
+usr_input = input("Enter you name:")
+print (usr_input)
